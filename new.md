@@ -16,3 +16,5 @@ un nuevo cambio mas ter para tu github
 mas y mas cambios jajajaj
 
 ## Este es otro tema 
+
+# Tags anotadas y tags ligeras 
